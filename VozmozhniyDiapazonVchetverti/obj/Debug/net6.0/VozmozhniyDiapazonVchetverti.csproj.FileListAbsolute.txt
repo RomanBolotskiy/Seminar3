@@ -1,0 +1,15 @@
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\bin\Debug\net6.0\VozmozhniyDiapazonVchetverti.exe
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\bin\Debug\net6.0\VozmozhniyDiapazonVchetverti.deps.json
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\bin\Debug\net6.0\VozmozhniyDiapazonVchetverti.runtimeconfig.json
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\bin\Debug\net6.0\VozmozhniyDiapazonVchetverti.dll
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\bin\Debug\net6.0\VozmozhniyDiapazonVchetverti.pdb
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\VozmozhniyDiapazonVchetverti.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\VozmozhniyDiapazonVchetverti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\VozmozhniyDiapazonVchetverti.AssemblyInfoInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\VozmozhniyDiapazonVchetverti.AssemblyInfo.cs
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\VozmozhniyDiapazonVchetverti.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\VozmozhniyDiapazonVchetverti.dll
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\refint\VozmozhniyDiapazonVchetverti.dll
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\VozmozhniyDiapazonVchetverti.pdb
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\VozmozhniyDiapazonVchetverti.genruntimeconfig.cache
+C:\Users\roman\OneDrive\Рабочий стол\Семинар 3\VozmozhniyDiapazonVchetverti\obj\Debug\net6.0\ref\VozmozhniyDiapazonVchetverti.dll
